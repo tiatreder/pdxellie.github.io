@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "Simple Python Game"
+author: "Tia Treder"
 ---
 The first project I did in Python was a simple game in which the player is prompted to respond to choices.
 The player can either be eaten by the monster or survive depending on the choices they make.
