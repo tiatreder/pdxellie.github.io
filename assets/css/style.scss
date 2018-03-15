@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+    color: green
+}
+
 .site-nav ul {
     list-style-type: none;
     padding: 5px 0;
