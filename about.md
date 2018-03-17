@@ -26,3 +26,12 @@ the grey one is brie the orange one is cheddar and the tiny fluffy one is rosema
 *Five,* I'm thinking to myself as I write this. *Five seems like a good number of things to have in a list.*
 
 * **Finding The Number Of Times The Names Of People I Know Are In Pi And Then Putting That Into A Table**
+
+Name | Number of Times Name is in Pi
+------------ | -------------
+Tia | 1578
+Maya | 59
+Eiko | 62
+Matt | 67
+Liz | 1564
+Ellie | 0
