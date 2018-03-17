@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-### I wasn't sure what content fill this website with so the About page is going to be a list of things I like, listed in the order I thought of them. (h3)
+### I wasn't sure what content fill this website with so the About page is going to be a list of things I like, listed in the order I thought of them. 
 
-## Things I Like: (h2)
+## Things I Like: 
 1. **Seasonally Appropriate Poetry**
 >I want to do with you what spring does with the cherry trees.
-This is from Pablo Neruda's *Every Day You Play* and was not originally written in English.
+>This is from Pablo Neruda's *Every Day You Play* and was not originally written in English.
 2. **My Cats Who Are Named After Cheeses And Herbs**
 IMAGE kitties
 DESCRIPTION the orange one is cheddar the grey one is brie and the tiny fluffy one is rosemary
