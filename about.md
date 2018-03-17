@@ -13,7 +13,9 @@ This is from Pablo Neruda's *Every Day You Play* and was not originally written 
 
 * **My Cats Who Are Named After Cheeses And Herbs**
 
-![the grey one is brie the orange one is cheddar and the tiny fluffy one is rosemary](kitties.JPG)
+![iz kitty](kitties.JPG)
+
+the grey one is brie the orange one is cheddar and the tiny fluffy one is rosemary
 
 * **The Wikipedia Page for Chemical Compounds With Unusual Names**
 
