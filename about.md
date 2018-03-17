@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### I wasn't sure what content fill this website with so the About page is going to be a list of things I like, listed in the order I thought of them. 
+### I wasn't sure what content to fill this website with so the About page is going to be a list of things I like, listed in the order I thought of them. 
 
 ## Things I Like: 
 * **Seasonally Appropriate Poetry**
